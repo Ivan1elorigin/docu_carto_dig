@@ -1,2 +1,10 @@
 [geamap](https://www.geamap.com/es)
 [Comparador imagen aerea España](https://www.geamap.com/es/ortofoto-comparador-espana)
+[Incendios](https://www.geamap.com/es/incendios)
+[Mapa geológico España](https://www.geamap.com/es/geologico-espana)
+[IberPix todo mapa en uno](https://www.ign.es/iberpix)(permite dibujar y exportar capas en KMZ)
+[Signa otro todo en uno menos elaborado](https://signa.ign.es/signa/)(visualización y análisis)
+[mapa ciudadano](https://ideespain.github.io/mapabase/)(contiene el camino de Santiago al Completo)
+[Astronomia](https://astronomia.ign.es/)
+
+[Centro de descargas](centrodedescargas.cnig.es) (muy importante para recopilar datos gratis😊)
