@@ -10,10 +10,19 @@
 ## Imágenes y mapas temáticos
 
 - [Comparador de imagen aérea de España](https://www.geamap.com/es/ortofoto-comparador-espana)
+- [Comparador de imagen aérea de España IGN](https://visualizadores.ign.es/comparador_pnoa)
 - [Incendios](https://www.geamap.com/es/incendios)
 - [Mapa geológico de España](https://www.geamap.com/es/geologico-espana)
 - [Astronomía](https://astronomia.ign.es/)
 
+#### Estados unidos
+[Datos de costa](https://coast.noaa.gov/)
+
 ## Descarga de datos
 
 - [Centro de Descargas del CNIG](https://centrodedescargas.cnig.es/): recurso importante para recopilar datos gratuitos.
+- [Coral reef data EEUU](https://coralreef.noaa.gov/digital-corals/data)
+## Cursos
+### LiDar Training
+
+[Lidar courses](https://coast.noaa.gov/digitalcoast/training/lidar-workflow.html)
