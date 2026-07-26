@@ -18,5 +18,5 @@
 
 - [Centro de Descargas del CNIG](https://centrodedescargas.cnig.es/): recurso importante para recopilar datos gratuitos.
 
-Prueba md  
+Prueba md
 Otra prueba
